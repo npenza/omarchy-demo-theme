@@ -1,3 +1,29 @@
-# Omarchy Demo Theme for Alacritty
 [colors]
-primary = { background = "0x1a1a1a", foreground = "0xf8f8f2" } 
+[colors.primary]
+background = '#2F4858'
+foreground = '#86BBD8'
+
+# Normal colors
+[colors.normal]
+black = '#2F4858'
+red = '#F26419'
+green = '#86BBD8'
+yellow = '#F6AE2D'
+blue = '#33658A'
+magenta = '#F6AE2D'
+cyan = '#86BBD8'
+white = '#86BBD8'
+
+# Bright colors
+[colors.bright]
+black = '#33658A'
+red = '#F26419'
+green = '#86BBD8'
+yellow = '#F6AE2D'
+blue = '#86BBD8'
+magenta = '#F6AE2D'
+cyan = '#86BBD8'
+white = '#F6AE2D'
+
+[colors.selection]
+background = '#33658A'

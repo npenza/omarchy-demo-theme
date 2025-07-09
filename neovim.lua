@@ -1,1 +1,8 @@
-vim.cmd('colorscheme default') 
+return {
+	{
+		"LazyVim/LazyVim",
+		opts = {
+			colorscheme = "tokyonight",
+		},
+	},
+}
