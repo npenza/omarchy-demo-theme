@@ -3,6 +3,12 @@
 background = '#2F4858'
 foreground = '#86BBD8'
 
+[font]
+normal = { family = "Gobitta" }
+bold = { family = "Gobitta" }
+italic = { family = "Gobitta" }
+size = 12
+
 # Normal colors
 [colors.normal]
 black = '#2F4858'
