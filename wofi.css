@@ -3,7 +3,7 @@
 @define-color	base  #2F4858;
 
 * {
-  font-family: 'Gobitta', monospace;
+  font-family: 'Gobitta', sans-serif;
   font-size: 18px;
 }
 
