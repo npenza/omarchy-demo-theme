@@ -4,9 +4,9 @@ background = '#2F4858'
 foreground = '#86BBD8'
 
 [font]
-normal = { family = "PixellettersFull" }
-bold = { family = "PixellettersFull" }
-italic = { family = "PixellettersFull" }
+normal = { family = "CaskaydiaMono Nerd Font" }
+bold = { family = "CaskaydiaMono Nerd Font" }
+italic = { family = "CaskaydiaMono Nerd Font" }
 size = 36
 
 # Normal colors

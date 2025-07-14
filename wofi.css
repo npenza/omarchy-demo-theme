@@ -1,9 +1,9 @@
-@define-color	selected-text  #33658A;
-@define-color	text  #86BBD8;
-@define-color	base  #2F4858;
+@define-color selected-text #33658A;
+@define-color text #86BBD8;
+@define-color base #2F4858;
 
 * {
-  font-family: 'PixellettersFull', sans-serif;
+  font-family: 'CaskaydiaMono Nerd Font', sans-serif;
   font-size: 36px;
 }
 
